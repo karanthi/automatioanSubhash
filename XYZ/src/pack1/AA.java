@@ -8,7 +8,12 @@ public class AA {
 		
 
 		System.out.println("hello");
-	}
+	
+	
+	// added code here
+	AA a1=new AA();
+	System.out.println(i);
 	}
 
 
+}
