@@ -7,6 +7,7 @@ public class A {
 		char c='c';
 		String s="ssss";
 		System.out.println("how are you...");
+		System.out.println("am good");
 		
 	}
 
